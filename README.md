@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Product Preview Card](https://mahbt.github.io/interactive-rating-component/)
+- Live Site URL: [Interactive Rating Component](https://mahbt.github.io/interactive-rating-component/)
 
 ## My process
 
